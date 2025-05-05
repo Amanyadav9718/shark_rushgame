@@ -1,34 +1,16 @@
-# 🦈 Shark Rush
+# shark_rush
 
-**Shark Rush** is an endless runner-style mobile game built using **Flutter**, where you control a shark rushing through the ocean while avoiding boats and other obstacles. The goal is to survive as long as possible and beat your high score!
+A new Flutter project.
 
-## 🎮 Game Concept
+## Getting Started
 
-- Guide a shark as it navigates through the sea.
-- Avoid colliding with boats and other dangers.
-- Speed increases over time to keep things exciting.
+This project is a starting point for a Flutter application.
 
-## 🚀 Tech Stack
+A few resources to get you started if this is your first Flutter project:
 
-- **Flutter** for cross-platform development
-- **Dart** as the programming language
-- Custom game logic (no external game engines)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 📱 Platforms
-
-- Android (Planned)
-- iOS (Planned)
-
-## ✅ Features (in progress)
-
-- [ ] Endless gameplay loop
-- [ ] Score counter
-- [ ] Dynamic difficulty
-- [ ] Simple ocean-themed UI
-- [ ] Sound effects and animations
-
-## 📦 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Amanyadav9718/shark_rushgame.git
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
